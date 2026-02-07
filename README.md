@@ -59,6 +59,10 @@ A container is a lightweight virtualization method that packages an application 
 ### Output on Browser (localhost:8080)
 ![Nginx Welcome Page](screenshot/Screenshot%202026-01-28%20084243.png)
 
+### Running Nginx Using Docker Container
+![Docker Nginx Commands](screenshot/Screenshot%202026-01-28%200848xx.png)
+
+
 ### Step 1: Initialize Vagrant Virtual Machine
 ```bash
 vagrant init
