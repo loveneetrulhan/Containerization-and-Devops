@@ -60,7 +60,7 @@ A container is a lightweight virtualization method that packages an application 
 ![Nginx Welcome Page](screenshot/Screenshot%202026-01-28%20084243.png)
 
 ### Running Nginx Using Docker Container
-![Docker Nginx Commands](screenshot/Screenshot%202026-01-28%200848xx.png)
+![Docker Nginx Commands](screenshot/Screenshot%202026-01-28%20084828.png)
 
 
 
