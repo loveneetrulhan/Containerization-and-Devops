@@ -48,6 +48,16 @@ A container is a lightweight virtualization method that packages an application 
 ---
 
 ## Procedure
+## Screenshots
+
+### Nginx Running Inside Virtual Machine
+![Nginx Status](screenshot/Screenshot%202026-01-21%20093039.png)
+
+### Starting Nginx Service
+![Starting Nginx](screenshot/Screenshot%202026-01-21%20093257.png)
+
+### Output on Browser (localhost:8080)
+![Nginx Welcome Page](screenshot/Screenshot%202026-01-28%20084243.png)
 
 ### Step 1: Initialize Vagrant Virtual Machine
 ```bash
