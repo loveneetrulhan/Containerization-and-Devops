@@ -79,6 +79,4 @@ This repository contains all the lab experiments performed as part of the Contai
 
 ---
 
-## ▶️ How to Run
 
-### Clone Repository
