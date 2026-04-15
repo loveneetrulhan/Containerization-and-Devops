@@ -36,34 +36,34 @@ This repository contains all the lab experiments performed as part of the Contai
 
 ---
 
-### 🔹 [Lab 2: Docker Installation & Setup](lab-2/EXP2.md)
+### 🔹 [Lab 2: Docker Installation & Setup](lab-2/exp2.md)
 - Installed Docker  
 - Pulled images and ran containers  
 
 ---
 
-### 🔹 [Lab 3: Docker Images & Containers](lab-3/EXP3.md)
+### 🔹 [Lab 3: Docker Images & Containers](lab-3/exp3.md)
 - Pulled Docker images  
 - Ran containers with port mapping  
 - Managed container lifecycle  
 
 ---
 
-### 🔹 [Lab 4: Dockerfile & Image Creation](lab-4/EXP4.md)
+### 🔹 [Lab 4: Dockerfile & Image Creation](lab-4/exp-4.md)
 - Created a simple application  
 - Built Docker image using Dockerfile  
 - Tagged and managed images  
 
 ---
 
-### 🔹 [Lab 5: Volumes, Environment Variables & Monitoring](lab-5/EXP5.md)
+### 🔹 [Lab 5: Volumes, Environment Variables & Monitoring](lab-5/exp-5.md)
 - Used Docker volumes for persistent storage  
 - Set environment variables  
 - Monitored containers using docker stats and logs  
 
 ---
 
-### 🔹 [Lab 6: Docker Compose](lab6)
+### 🔹 [Lab 6: Docker Compose](lab-6/Exp-6)
 - Compared docker run and docker-compose  
 - Deployed multi-container applications  
 - Managed services using docker-compose.yml  
