@@ -36,7 +36,7 @@ This repository contains all the lab experiments performed as part of the Contai
 
 ---
 
-### 🔹 [Lab 2: Docker Installation & Setup](lab-2/exp2.md)
+### 🔹 [Lab 2: Docker Installation & Setup](lab-2/README.md)
 - Installed Docker  
 - Pulled images and ran containers  
 
