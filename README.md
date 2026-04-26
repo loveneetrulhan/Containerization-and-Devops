@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Containerization and DevOps Lab Experiments
 
 ## 📌 Overview
@@ -36,7 +37,7 @@ This repository contains all the lab experiments performed as part of the Contai
 
 ---
 
-### 🔹 [Lab 2: Docker Installation & Setup](lab-2/README.md)
+### 🔹 [Lab 2: Docker Installation & Setup](./lab-2/exp-2.md)
 - Installed Docker  
 - Pulled images and ran containers  
 
@@ -63,7 +64,7 @@ This repository contains all the lab experiments performed as part of the Contai
 
 ---
 
-### 🔹 [Lab 6: Docker Compose](lab-6/Exp-6)
+### 🔹 [Lab 6: Docker Compose](./lab6/Exp-6.md)
 - Compared docker run and docker-compose  
 - Deployed multi-container applications  
 - Managed services using docker-compose.yml  
