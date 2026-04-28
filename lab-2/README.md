@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 * Pull Docker images
 * Run containers
@@ -12,14 +12,14 @@
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 * Docker installed on system
 * Internet connection
 
 ---
 
-## 📌 Procedure
+##  Procedure
 
 ### Step 1: Pull Docker Image
 
@@ -77,13 +77,13 @@ docker rmi nginx
 
 ---
 
-## ✅ Result
+##  Result
 
 Docker images were successfully pulled, containers were executed, and lifecycle commands were performed.
 
 ---
 
-## 📚 References
+##  References
 
 * https://docs.docker.com/get-started/
 * https://docs.docker.com/engine/reference/commandline/docker/
@@ -91,7 +91,7 @@ Docker images were successfully pulled, containers were executed, and lifecycle 
 
 ---
 
-## 🧾 Conclusion
+##  Conclusion
 
 This experiment demonstrated Docker installation and usage.
 Docker enables lightweight containerization, faster deployment, and efficient resource utilization.

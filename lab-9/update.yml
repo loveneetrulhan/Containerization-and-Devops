@@ -1,0 +1,16 @@
+- hosts: servers
+  become: yes
+  tasks:
+    - name: Update apt packages
+      apt:
+        update_cache: yes
+
+    - name: Install nginx
+      apt:
+        name: nginx
+        state: present
+
+    - name: Create test file
+      copy:
+        content: "Configured by Ansible"
+        dest: /root/test.txt

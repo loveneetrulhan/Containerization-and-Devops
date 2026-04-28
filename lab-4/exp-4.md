@@ -2,9 +2,9 @@
 **SAP ID:** 500123392
 **Batch:** B3 (CCVT)
 
-# 🧪 Experiment 4: Docker Essentials
+#  Experiment 4: Docker Essentials
 
-## 🎯 Aim
+##  Aim
 
 To understand Docker basics including Dockerfile, images, containers, multi-stage builds, and Docker Hub.
 
@@ -223,12 +223,12 @@ docker push <your-username>/flask-app:latest
 
 ---
 
-## 🧾 Result
+##  Result
 
 The experiment was successfully completed. Docker images were created, containers were run, and images were pushed to Docker Hub.
 
 ---
 
-## 🧾 Conclusion
+##  Conclusion
 
 Docker simplifies deployment and improves portability and scalability.

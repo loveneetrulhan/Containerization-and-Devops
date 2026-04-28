@@ -1,8 +1,8 @@
-"# 🧪 Experiment 6: Docker Run vs Docker Compose
+## Experiment 6: Docker Run vs Docker Compose
 
 ---
 
-## 🎯 Aim
+##  Aim
 
 To compare Docker Run and Docker Compose and deploy applications using both methods.
 
@@ -156,13 +156,13 @@ docker volume ls
 
 ---
 
-# 🧾 Result
+#  Result
 
 The experiment was successfully completed. Docker Run and Docker Compose were used to deploy both single-container and multi-container applications.
 
 ---
 
-# 🧾 Conclusion
+#  Conclusion
 
 Docker Compose is more efficient and easier to manage than Docker Run, especially for multi-container applications like WordPress with MySQL.
 
