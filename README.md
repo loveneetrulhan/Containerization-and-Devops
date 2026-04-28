@@ -96,14 +96,14 @@ This repository contains all the lab experiments performed as part of the **Cont
 
 ---
 
-### 🔹 [Lab 7: CI/CD using Jenkins](lab-7/README.md)
+### 🔹 [Lab 7: CI/CD using Jenkins](lab-7/exp-7.md)
 
 * Set up Jenkins pipeline
 * Automated build and deployment process
 
 ---
 
-### 🔹 [Lab 9: Configuration Management using Ansible](lab-9/README.md)
+### 🔹 [Lab 9: Configuration Management using Ansible](lab-9/exp-9.md)
 
 * Automated system configuration
 * Used playbooks for deployment
@@ -118,14 +118,14 @@ This repository contains all the lab experiments performed as part of the **Cont
 
 ---
 
-### 🔹 [Lab 11: Docker Swarm / WordPress Deployment](lab-11/README.md)
+### 🔹 [Lab 11: Docker Swarm / WordPress Deployment](lab-11/exp-11.md)
 
 * Deployed multi-container application using Docker Swarm
 * Managed services and scaling
 
 ---
 
-### 🔹 [Lab 12: Kubernetes using k3d](lab-12/README.md)
+### 🔹 [Lab 12: Kubernetes using k3d](lab-12/exp-12.md)
 
 * Set up Kubernetes cluster using k3d
 * Deployed applications using kubectl
