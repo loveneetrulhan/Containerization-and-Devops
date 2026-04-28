@@ -125,7 +125,7 @@ This repository contains all the lab experiments performed as part of the **Cont
 
 ---
 
-### 🔹 [Lab 12: Kubernetes using k3d](lab-12/exp-12.md)
+### 🔹 [Lab 12: Kubernetes using k3d](/lab-12/exp-12.md)
 
 * Set up Kubernetes cluster using k3d
 * Deployed applications using kubectl
