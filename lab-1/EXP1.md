@@ -1,6 +1,6 @@
 
-**Name:** Lovinder 
-**SAP ID:** 500123392
+**Name:** Loveneet Rulhan |
+**SAP ID:** 500123392 |
 **Batch:** B3 (CCVT)
 
 # Lab – Experiment 1
